@@ -1,0 +1,43 @@
+
+#my-ship {
+    height: 100px;
+    position: absolute left;
+    left: 500px;
+    bottom: 550px;
+}
+
+#buttons {
+    position: absolute;
+    top: 600px
+
+}
+
+
+.enemy-images {
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    /* width: 1000px;
+    margin: 0 auto 0 auto;
+    display: inline-block; */
+}
+
+
+
+#Background {
+    background-color: palegreen;
+}
+
+/* .flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  } */
+
+
+
